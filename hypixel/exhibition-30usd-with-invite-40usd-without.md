@@ -1,4 +1,4 @@
-# Exhibition \(30$ with invite 40$ without\)
+# Exhibition \(20$ with invite 30$ without\)
 
 Exhibition is a blatant client for 1.8.9 \(however, it does support some other versions of Minecraft through it's version selector\). It is developed by Arithmo and has been around for a few years. It is a Hypixel-focused client, and you have to message Arithmo to apply.
 
