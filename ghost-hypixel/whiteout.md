@@ -1,8 +1,13 @@
-# Whiteout \(60$ for lifetime\)
+# Whiteout
 
-Price: $60 \($5 - Week, $10 - Month, $25 - 3 Months\) 
+Whiteout is created by the [https://whiteout.lol](https://whiteout.lol) team.
 
- Whiteout is what is called in the ghost-client community as an internal client. Whiteout features many things that are useful for practice servers as well as Hypixel. Such include bridge-assist and teams mode aim-assist. It is highly customizable and is now considered \(arguably\) one of the best ghost-clients. It supports a variety of clients: Badlion, Lunar \(Not stated on the website\), Forge, CheatBreaker, PvPLounge, and LabyMod. Lunar support is dodgy as is must be re-added by the developers because of how Lunar does things. Note: This is not comprehensive and much more information can be found on Whiteout's website [https://whiteout.lol/](https://whiteout.lol/)
+The price for this client is $10 a month, $25 for 90 days or $60 lifetime. You can also buy a trial week for $5, and you can get a refund within 24 hours if you do not like it.
 
-The person who wrote this did not want to be credited.
+Whiteout is considered one of the current "best" ghost clients on the market. It is designed for PotPVP servers, however it contains some modules such as AntiBot that can be used on servers like Hypixel. Whiteout v2 wasn't that great, however the current version, v3 was a massive improvement to the cheat. 
 
+Whiteout contains lunar support, and whenever Lunar patches support for Whiteout they have 2 developers that find new mappings for it. They have a lot of guides on their website - these include bypassing screenshares, and guides for some modules. Whiteout features an external gui that can be hidden via a keybind.
+
+Whiteout's main selling point is the amount of modules it has, it's lunar support and it's customizability. It has just about every module you would need for ghost cheating, and some extra such as FakeLag. The customizability on each module is incredible, containing several checks and even states. It also is one of the best at bypassing screenshares, as it isn't as known as something as Vape Lite.
+
+This page was created on 3/20/2021 by p4.
