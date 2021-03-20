@@ -10,7 +10,6 @@
 * [Astolfo \(40$\)](hypixel/astolfo-40usd/README.md)
   * [How to apply](hypixel/astolfo-40usd/how-to-apply.md)
   * [How to install.](hypixel/astolfo-40usd/how-to-install..md)
-* [Exhibition \(20$ with invite 30$ without\)](hypixel/exhibition-20usd-with-invite-30usd-without.md)
 * [Novoline \(25$\)](hypixel/novoline-25usd.md)
 * [Remix \(25$\)](hypixel/remix-25usd.md)
 * [exhibition](hypixel/exhibition.md)
