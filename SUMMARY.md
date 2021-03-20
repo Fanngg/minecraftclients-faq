@@ -10,7 +10,7 @@
 * [Astolfo \(40$\)](hypixel/astolfo-40usd/README.md)
   * [How to apply](hypixel/astolfo-40usd/how-to-apply.md)
   * [How to install.](hypixel/astolfo-40usd/how-to-install..md)
-* [Exhibition \(30$ with invite 40$ without\)](hypixel/exhibition-30usd-with-invite-40usd-without.md)
+* [Exhibition \(20$ with invite 30$ without\)](hypixel/exhibition-30usd-with-invite-40usd-without.md)
 * [Novoline \(25$\)](hypixel/novoline-25usd.md)
 * [Remix \(25$\)](hypixel/remix-25usd.md)
 * [Intent.store clients](hypixel/intent.store-clients/README.md)
