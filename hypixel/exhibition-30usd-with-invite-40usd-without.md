@@ -1,12 +1,13 @@
-# Exhibition \(30$ with invite 40$ without\)
+# Exhibition
 
-Exhibition is a blatant client for 1.8.9 \(however, it does support some other versions of Minecraft through it's version selector\). It is developed by Arithmo and has been around for a few years. It is a Hypixel-focused client, and you have to message Arithmo to apply.
+Exhibition is mainly developed by Arithmo. Their website is minesense.pub.
 
-It has periods of time where it doesn't update for a little while, however Arithmo has been updating it more frequently now. It bypasses great after updates, and usually continues to unless there is a major Watchdog update. It's mostly known for it's skeet gui. It has great modules, great visuals, and is comparable to Astolfo and Novoline.
+The price for this client is $30 without an invite, however if you know a user with the client and they invite you, you can get it for $20.
+Exhibition is a Hypixel-focused client. It is currently one of the oldest Hypixel cheats, however it's bypasses are up there with similar premium clients. It is mostly known for it's skeet clickgui, and it was very popular around 2019. 
 
-Exhibition is good. However, Arithmo does get a lot of DMs so he usually doesn't accept friend requests for upwards of a few weeks, and it can take a little while to get your payment approved after that. Aside from that, it bypasses great, although updates aren't the most consistent.
+The client used to not update as fast as other clients, however the developers have been putting more time to it and the update times have been getting quicker. It usually takes a few days after Watchdog updates for Exhibition to update, however once it updates the client bypasses very well. The bypasses will usually stay until the next "major" Watchdog update.
 
-For more info go to [https://minesense.pub/](https://minesense.pub/)
+To purchase Exhibition, you must friend request Arithmo#0031 on discord, and wait for him to accept you. Arithmo gets a lot of direct messages and friend requests, so this might take some time. Once he accepts you, he will determine if you are suitable to purchase the client and will let you purchase it. 
 
-written by: p4
+This page was created on 3/20/2021 by p4.
 
