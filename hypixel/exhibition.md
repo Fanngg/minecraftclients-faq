@@ -1,4 +1,4 @@
-# Exhibition
+# Exhibition (20$ with invite 30$ without invite)
 
 Exhibition is mainly developed by Arithmo. Their website is minesense.pub.
 
