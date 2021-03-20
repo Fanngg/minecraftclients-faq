@@ -12,7 +12,7 @@
   * [How to install.](hypixel/astolfo-40usd/how-to-install..md)
 * [Novoline \(25$\)](hypixel/novoline-25usd.md)
 * [Remix \(25$\)](hypixel/remix-25usd.md)
-* [exhibition](hypixel/exhibition.md)
+* [Exhibition](hypixel/exhibition.md)
 * [Intent.store clients](hypixel/intent.store-clients/README.md)
   * [Fan \(15$ / free because cracked\)](hypixel/intent.store-clients/fan-15usd-free-because-cracked/README.md)
     * [How to use fan crack](hypixel/intent.store-clients/fan-15usd-free-because-cracked/how-to-use-fan-crack.md)

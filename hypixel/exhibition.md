@@ -1,4 +1,4 @@
-# exhibition
+# Exhibition
 
 Exhibition is mainly developed by Arithmo. Their website is minesense.pub.
 
