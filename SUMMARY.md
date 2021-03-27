@@ -4,7 +4,10 @@
 * [Acknowledgements](acknowledgements.md)
 * [How to Contribute](how-to-contribute.md)
 * [Choosing a Cheat](common-mistakes-when-choosing-a-cheat..md)
-* [Configs](configs.md)
+
+## Old
+
+* [Configs](old/configs.md)
 
 ## blatant hypixel <a id="hypixel"></a>
 
