@@ -5,104 +5,106 @@
 * [How to Contribute](how-to-contribute.md)
 * [Choosing a Cheat](common-mistakes-when-choosing-a-cheat..md)
 
+## Blatant Clients
+
+* [Free](blatant-clients/free.md)
+* [Premium](blatant-clients/premium/README.md)
+  * [Astolfo](blatant-clients/premium/astolfo.md)
+  * [Exhibition](blatant-clients/premium/exhibition.md)
+  * [Moon](blatant-clients/premium/moon.md)
+  * [ZeroDay](blatant-clients/premium/zeroday.md)
+
+## Ghost Clients
+
+* [Free](ghost-clients/free.md)
+* [Premium](ghost-clients/premium/README.md)
+  * [Vape v4](ghost-clients/premium/vape-v4.md)
+  * [Vape Lite](ghost-clients/premium/vape-lite.md)
+  * [Whiteout](ghost-clients/premium/whiteout.md)
+
+## Alt Shops
+
+* [The Altening](alt-shops/the-altening.md)
+
+## ------------------------------ <a id="divider"></a>
+
 ## Old
 
 * [Configs](old/configs.md)
+* [Astolfo \(40$\)](old/astolfo-40usd/README.md)
+  * [How to apply](old/astolfo-40usd/how-to-apply.md)
+  * [How to install.](old/astolfo-40usd/how-to-install..md)
+* [Remix \(25$\)](old/remix-25usd.md)
+* [Novoline \(25$\)](old/novoline-25usd.md)
+* [Exhibition](old/exhibition.md)
+* [Intent.store clients](old/intent.store-clients/README.md)
+  * [Fan \(15$ / free because cracked\)](old/intent.store-clients/fan-15usd-free-because-cracked/README.md)
+    * [How to use fan crack](old/intent.store-clients/fan-15usd-free-because-cracked/how-to-use-fan-crack.md)
+  * [Zeroday \(10$\)](old/intent.store-clients/zeroday-10usd.md)
+  * [Pulsive \(15$\)](old/intent.store-clients/pulsive-15usd.md)
+* [Sigma \(free\)](old/sigma-free.md)
+* [Entropy 30$](old/entropy.md)
+* [Vape \(9.99$ a month for lite\)](old/vape.md)
+* [Whiteout \(60$ for lifetime\)](old/whiteout.md)
+* [Crypt \(80$\)](old/crypt.md)
+* [Iridium \(40 euros for ghost\)](old/iridium.md)
+* [Yukio \(12.5 for clicker\)](old/yukio.md)
+* [drip \(10$/7 days for lite\)](old/drip.md)
+* [Future \(20$\)](old/future.md)
+* [Anarchy clients module explanation](old/anarchy-clients-module-explanation.md)
+* [Rusherhack \(20$ for normal 100$ for rusherhack+\)](old/rusherhack.md)
+* [Wurst +2 \(free\)](old/wurst-+2.md)
+* [Kami blue  \(free\)](old/kami-blue.md)
+* [Xulu \(free\)](old/xulu.md)
+* [Atom \(free\)](old/atom.md)
+* [phobos \(free\)](old/phobos.md)
+* [Seppuku \(free\)](old/seppuku.md)
+* [Rootnet \(20$\)](old/rootnet.md)
+* [Salhack \(free\)](old/salhack.md)
+* [Konas \(15$\)](old/konas.md)
+* [Elementars \(free\)](old/elementars.md)
 
-## blatant hypixel <a id="hypixel"></a>
+---
 
-* [Astolfo \(40$\)](hypixel/astolfo-40usd/README.md)
-  * [How to apply](hypixel/astolfo-40usd/how-to-apply.md)
-  * [How to install.](hypixel/astolfo-40usd/how-to-install..md)
-* [Novoline \(25$\)](hypixel/novoline-25usd.md)
-* [Remix \(25$\)](hypixel/remix-25usd.md)
-* [Exhibition](hypixel/exhibition.md)
-* [Intent.store clients](hypixel/intent.store-clients/README.md)
-  * [Fan \(15$ / free because cracked\)](hypixel/intent.store-clients/fan-15usd-free-because-cracked/README.md)
-    * [How to use fan crack](hypixel/intent.store-clients/fan-15usd-free-because-cracked/how-to-use-fan-crack.md)
-  * [Zeroday \(10$\)](hypixel/intent.store-clients/zeroday-10usd.md)
-  * [Pulsive \(15$\)](hypixel/intent.store-clients/pulsive-15usd.md)
-* [Sigma \(free\)](hypixel/sigma-free.md)
-
-## Ghost <a id="ghost-hypixel"></a>
-
-* [Entropy 30$](ghost-hypixel/entropy.md)
-* [Whiteout \(60$ for lifetime\)](ghost-hypixel/whiteout.md)
-* [Crypt \(80$\)](ghost-hypixel/crypt.md)
-* [Vape \(9.99$ a month for lite\)](ghost-hypixel/vape.md)
-* [Yukio \(12.5 for clicker\)](ghost-hypixel/yukio.md)
-* [Iridium \(40 euros for ghost\)](ghost-hypixel/iridium.md)
-* [drip \(10$/7 days for lite\)](ghost-hypixel/drip.md)
-
-## Anarchy
-
-* [Anarchy clients module explanation](anarchy/anarchy-clients-module-explanation.md)
-* [Future \(20$\)](anarchy/future.md)
-* [Rusherhack \(20$ for normal 100$ for rusherhack+\)](anarchy/rusherhack.md)
-* [Wurst +2 \(free\)](anarchy/wurst-+2.md)
-* [Atom \(free\)](anarchy/atom.md)
-* [Xulu \(free\)](anarchy/xulu.md)
-* [Kami blue  \(free\)](anarchy/kami-blue.md)
-* [Seppuku \(free\)](anarchy/seppuku.md)
-* [Salhack \(free\)](anarchy/salhack.md)
-* [phobos \(free\)](anarchy/phobos.md)
-* [Konas \(15$\)](anarchy/konas.md)
-* [Elementars \(free\)](anarchy/elementars.md)
-* [Meteor \(free\)](anarchy/meteor.md)
-* [Raion \(20$\)](anarchy/raion.md)
-* [Pyro \(20$\)](anarchy/pyro-20usd.md)
-* [Inertia \(free\)](anarchy/inertia.md)
-* [gamesense](anarchy/gamesense.md)
-* [Impact \(free\)](anarchy/impact.md)
-* [Summit \(free\)](anarchy/summit.md)
-* [Rootnet \(20$\)](anarchy/rootnet.md)
-
-## Clients which work on individual versions
-
-* [latest](clients-which-work-on-individual-versions/latest.md)
-* [1.12.2](clients-which-work-on-individual-versions/1.12.2.md)
-* [1.8.9](clients-which-work-on-individual-versions/1.8.9.md)
-
-## not clients but are cheat-y
-
-* [Viaforge.](not-clients-but-are-cheat-y/viaforge..md)
-* [baritone](not-clients-but-are-cheat-y/baritone.md)
-* [Schematica](not-clients-but-are-cheat-y/schematica.md)
-
-## free \(not stated already\) <a id="free"></a>
-
-* [Spicy](free/spicy.md)
-* [Xatz](free/xatz.md)
-* [Itami](free/itami.md)
-* [Aristois](free/aristois.md)
-* [Fang client](free/fang-client.md)
-* [Liquidbounce](free/liquidbounce.md)
-
-## servers
-
-* [Ghostly](servers/ghostly.md)
-* [Lunar](servers/lunar.md)
-* [Saico](servers/saico.md)
-* [Minemen](servers/minemen.md)
-* [Faithful](servers/faithful.md)
-* [viperhcf](servers/viperhcf.md)
-* [pvp.land](servers/pvp.land.md)
-* [pvptemple](servers/pvptemple.md)
-* [Velt](servers/velt.md)
-
-## alts
-
-* [The difference between shops and generators](alts/the-difference-between-shops-and-generators.md)
-* [Shops](alts/shops/README.md)
-  * [Reborn](alts/shops/reborn.md)
-  * [Alts.top](alts/shops/alts.top.md)
-  * [Personic](alts/shops/personic.md)
-  * [Kingalts](alts/shops/kingalts.md)
-  * [TheAltening \(shop\)](alts/shops/thealtening.md)
-  * [alts.website](alts/shops/alts.website.md)
-  * [alts.rip](alts/shops/alts.rip.md)
-* [Generators](alts/generators/README.md)
-  * [TheAltening \(generator\)](alts/generators/thealtening.md)
-  * [alts.pizza](alts/generators/alts.pizza.md)
-  * [Fastalts](alts/generators/fastalts.md)
+* [Pyro \(20$\)](pyro-20usd.md)
+* [Meteor \(free\)](meteor.md)
+* [Raion \(20$\)](raion.md)
+* [Inertia \(free\)](inertia.md)
+* [gamesense](gamesense.md)
+* [Impact \(free\)](impact.md)
+* [Summit \(free\)](summit.md)
+* [latest](latest.md)
+* [1.12.2](1.12.2.md)
+* [1.8.9](1.8.9.md)
+* [Viaforge.](viaforge..md)
+* [baritone](baritone.md)
+* [Schematica](schematica.md)
+* [Spicy](spicy.md)
+* [Xatz](xatz.md)
+* [Itami](itami.md)
+* [Aristois](aristois.md)
+* [Fang client](fang-client.md)
+* [Liquidbounce](liquidbounce.md)
+* [Ghostly](ghostly.md)
+* [Lunar](lunar.md)
+* [Saico](saico.md)
+* [Minemen](minemen.md)
+* [Faithful](faithful.md)
+* [viperhcf](viperhcf.md)
+* [pvp.land](pvp.land.md)
+* [pvptemple](pvptemple.md)
+* [Velt](velt.md)
+* [The difference between shops and generators](the-difference-between-shops-and-generators.md)
+* [Shops](shops/README.md)
+  * [Reborn](shops/reborn.md)
+  * [Alts.top](shops/alts.top.md)
+  * [Personic](shops/personic.md)
+  * [Kingalts](shops/kingalts.md)
+  * [TheAltening \(shop\)](shops/thealtening.md)
+  * [alts.website](shops/alts.website.md)
+  * [alts.rip](shops/alts.rip.md)
+* [Generators](generators/README.md)
+  * [TheAltening \(generator\)](generators/thealtening.md)
+  * [alts.pizza](generators/alts.pizza.md)
+  * [Fastalts](generators/fastalts.md)
 
