@@ -4,6 +4,14 @@ description: The sexy people who made this possible
 
 # Acknowledgements
 
+**Current Acknowledgements:**
+
+Fang: Created the gitbook.
+
+p4: Created a few pages here. 
+
+  
+**Previous Acknowledgements**:   
   
 Fang: Made gitbook. \(is usually who "me" is. as i am making most of the tabs, and am the only person who can edit the gitbook.\) If no one is credited for a tab, i probably wrote it.
 

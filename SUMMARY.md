@@ -1,8 +1,9 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [Welcome Page](README.md)
 * [Acknowledgements](acknowledgements.md)
-* [Common mistakes when choosing a cheat.](common-mistakes-when-choosing-a-cheat..md)
+* [How to Contribute](how-to-contribute.md)
+* [Choosing a Cheat](common-mistakes-when-choosing-a-cheat..md)
 * [Configs](configs.md)
 
 ## blatant hypixel <a id="hypixel"></a>

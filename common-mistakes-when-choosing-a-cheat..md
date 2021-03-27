@@ -1,33 +1,38 @@
 ---
 description: >-
-  When you choosing your first cheat in Minecraft, you may feel confused with so
-  many client providers out there, and don't know which client you should
-  choose. This page aims to help with that.
+  This is a walkthrough about choosing a cheat, and some common mistakes you
+  should avoid.
 ---
 
-# Common mistakes when choosing a cheat.
+# Choosing a Cheat
 
-**What do you want?**
+## What do you want?
 
-If you want to do blatant cheating, then on what server do you want to do it on? If you want to do it on hypixel, then see the hypixel tab, if you want to do it on mineplex, then see the mineplex tab. If you want to do it on hcf servers, then see the hcf tab. Not all cheats can bypass on all servers. Infact its very unlikely that the random hypixel client you have picked will bypass on the server you wanna play.
+**Blatant Clients:** This depends on the server you're choosing. You will find a lot of blatant clients under the Blatant Clients tab, however some may not fit your needs. You can look under the title of the cheat to find out it's focus \(i.e. "Primarily Hypixel"\), and if it isn't what you're looking for, you can go onto the next.
 
-**Don't choose cheats based off of just what your friend said**
+**Ghost Clients:** This one is a little less tricky. While most cheats are _meant_ for potpvp servers, they will usually bypass well on minigames servers such as Hypixel or Mineplex.
 
-Please do some research before using any one source of information for your purchase. Even this one. You should look further into any client we recommend you, before just buying it. Purchasing things based off of a single persons recommendation is generally a bad idea and will likely leave you with quite a bit of regret.
+**Anarchy Clients / Utility Mods:** This category of cheating is probably the easiest to find a cheat for. Utility mods usually bypass a lot of servers, however some may have specific bypasses for some servers \(i.e. 2b2t\).
 
-**Clients aren't magic**
+## **Common Mistakes**
 
-Minecraft itself limits clients, no client can just give you op instantly no virus no scam 100%%!!111. Any client that claims to do that is most likely attempting to scam you / rat you \([Definition of rat](https://www.mcafee.com/blogs/consumer/what-is-rat/#:~:text=A%20RAT%20or%20remote%20administration,turn%20on%2Foff%20your%20device.)\). Essentially the reason behind these limitations is because some things are client side \(movement, hits, rendering stuff\) and some things are server side \(who is op, what permissions you have, where blocks are\), clients can edit the client side, but for you to be able to edit anything that would be considered server side, you would have to have access to the servers panel. If you have a question on whether or not a module is something thats possible, and it hasnt been mentioned in this paragraph, then you can make a post on the sub about it.
+**Do research when choosing a cheat!**
 
-**Don't buy a cheat just because it looks good in montages.**
+Always do research before you choose a cheat. Your friend, a YouTuber, someone on Reddit, or anyone might give you a recommendation, however it's a good idea to fact check. You should always look up the cheats people talk about, see actual reviews of them, and see if that cheat is the one for you. We also recommend you go beyond just this gitbook to research a cheat.
 
-Sure, its great that it looks nice in a montage, but that's the purpose of a montage, please watch reviews of it before you buy it, and i mean real reviews, not just showcases. Also, keep in mind the date on reviews / montages, if you looked at montages with people using etb, they would look great, but they are all from 2016, and now etb is not a client anyone should buy. 
+**Clients have limits.**
 
-**Antiviruses flagging it does not necessarily mean its a virus, and antiviruses not flagging it does not necessarily mean its not a virus.**
+Minecraft limits what the client can do. A client can't magically give you OP on a server, put you in creative mode, give you items, etc. Things like creative mode \(along with the others previously mentioned + more\) are handled server side, where things like movement, rendering, etc. are handled client side. Clients that claim to do something that's handled server side are a scam, and they could have malicious intent \(ratting you, installing a trojan, etc.\) and should **not** be trusted. If you have any questions about what is handled client/server side, or if a module is possible, you can always create a post on our subreddit.
 
-Its extremely common for clients to flag antiviruses, especially ghost clients, due to ghost clients literally being trojans. They inject into another program's shit, and they try to hide their tracks. Its not only ghost clients either, blatant clients sometimes flag antiviruses, like astolfo.
+**Montages shouldn't be considered when purchasing a cheat.**
 
-**Flowchart, for what client you should buy:**
+The whole point of a montage is to pick your best clips with the client, edit them, and show them off. The client might usually do terrible, but if someone can get a few lucky clips with it they can make it look amazing - which is why montages shouldn't be considered when choosing a cheat. You should also keep in mind the date the montage or video was made, as something that was good in 2019 might not be as good in 2021.
+
+**Just because a client flags your antivirus doesn't mean it is a virus.**
+
+It is extremely common for clients to flag antiviruses. Ghost clients are notorious for this, as they practically replicate what a trojan does \(inject itself into a program and then hide all traces of it\). However, blatant clients and utility mods might also flag the antivirus. For example, obfuscation is known for making flagging antiviruses, and some client's \(like Astolfo\) have launchers that flag antiviruses. While a client _usually_ isn't a virus/rat, cracks most likely are. You should always research any client you use just in case.
+
+## Purchase Guide \(Flowchart\)
 
 ![Made by Fang ](.gitbook/assets/image%20%2818%29.png)
 
