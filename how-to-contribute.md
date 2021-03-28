@@ -1,3 +1,7 @@
+---
+description: A guide on how to contribute to this gitbook.
+---
+
 # How to Contribute
 
 If you'd like to add something to this gitbook, please use this format below. **Remember to be as unbiased as possible, as we will not add your request to this gitbook if it is opinionated**. If you need help on creating a page, check another cheat's page.

@@ -1,5 +1,5 @@
 ---
-description: The sexy people who made this possible
+description: The sexy people who made this possible.
 ---
 
 # Acknowledgements
