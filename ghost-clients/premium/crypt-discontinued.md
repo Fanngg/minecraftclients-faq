@@ -1,4 +1,4 @@
-# Crypt \(DISCONTINUED\)
+# Crypt \(No longer receiving updates\)
 
 Crypt was a ghost client developed by Mexican.
 
