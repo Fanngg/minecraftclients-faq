@@ -47,7 +47,10 @@
 
 ## Terms
 
-* [Untitled](terms/untitled.md)
+* [Identification](terms/identification/README.md)
+  * [HWID](terms/identification/hwid.md)
+  * [IP Address](terms/identification/ip-address.md)
+* [Obfuscation](terms/untitled.md)
 
 ## ------------------------------ <a id="divider"></a>
 
