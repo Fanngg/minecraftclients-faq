@@ -2,7 +2,7 @@
 description: 'These mods aren''t cheats, however they are commonly used in cheating.'
 ---
 
-# Forge Mods
+# Forge Mods \(non cheats\)
 
 ## Baritone
 

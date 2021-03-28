@@ -51,7 +51,7 @@
 
 ## Other
 
-* [Forge Mods](other/forge-mods.md)
+* [Forge Mods \(non cheats\)](other/forge-mods.md)
 * [Cracks](other/cracks.md)
 
 ## ------------------------------ <a id="divider"></a>
