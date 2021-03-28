@@ -25,7 +25,7 @@
 
 * [Free](ghost-clients/free.md)
 * [Premium](ghost-clients/premium/README.md)
-  * [Crypt](ghost-clients/premium/crypt-discontinued.md)
+  * [Crypt](ghost-clients/premium/crypt.md)
   * [Whiteout](ghost-clients/premium/whiteout.md)
   * [Vape Lite](ghost-clients/premium/vape-lite.md)
   * [Vape v4](ghost-clients/premium/vape-v4.md)

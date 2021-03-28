@@ -8,7 +8,7 @@ description: The sexy people who made this possible
 
 Fang: Created the gitbook + created a few pages here.
 
-p4: Helped revamp the gitbook + created a few pages here. Revises and makes edits most pages.
+p4: Helped revamp the gitbook + created a few pages here. Revises and makes edits to most pages.
 
   
 **Previous Acknowledgements**:   
