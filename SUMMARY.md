@@ -37,9 +37,9 @@
 * [Free](anarchy-clients/free.md)
 * [Premium](anarchy-clients/premium.md)
 
-## Cracks
+## Cracked Clients
 
-* [Crack List](cracks/cracks.md)
+* [Crack List](cracked-clients/cracks.md)
 
 ## Alt Shops
 
