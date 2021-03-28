@@ -51,7 +51,7 @@
 
 ## Other
 
-* [Forge Mods \(non cheats\)](other/forge-mods.md)
+* [Forge Mods \(Non-Cheats\)](other/forge-mods.md)
 * [Blatant](other/blatant.md)
 * [Ghost](other/ghost.md)
 * [Cracks](other/cracks.md)
