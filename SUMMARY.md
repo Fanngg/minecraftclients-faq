@@ -36,7 +36,7 @@
 
 ## Cracks
 
-* [Cracks](cracks/cracks.md)
+* [Crack List](cracks/cracks.md)
 
 ## ------------------------------ <a id="divider"></a>
 
