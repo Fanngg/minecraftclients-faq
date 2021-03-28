@@ -1,5 +1,7 @@
 ---
-description: 'These mods aren''t cheats, however they are commonly used in cheating.'
+description: >-
+  These mods aren't cheats, however they are commonly used in the cheating
+  community.
 ---
 
 # Forge Mods \(Non-Cheats\)
