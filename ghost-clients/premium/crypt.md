@@ -1,7 +1,3 @@
----
-description: Note that this project has not received updates in a long time.
----
-
 # Crypt
 
 Crypt is a ghost client primarily developed by Mexican. Their website is [crypp.in](https://crypp.in).

@@ -13,8 +13,9 @@
 ## Blatant Clients
 
 * [Free](blatant-clients/free/README.md)
-  * [Liquidbounce](blatant-clients/free/liquidbounce.md)
   * [Spicy](blatant-clients/free/spicy.md)
+  * [Liquidbounce](blatant-clients/free/liquidbounce.md)
+  * [Cracked](blatant-clients/free/cracked.md)
 * [Premium](blatant-clients/premium/README.md)
   * [Astolfo](blatant-clients/premium/astolfo.md)
   * [Exhibition](blatant-clients/premium/exhibition.md)
@@ -23,7 +24,8 @@
 
 ## Ghost Clients
 
-* [Free](ghost-clients/free.md)
+* [Free](ghost-clients/free/README.md)
+  * [Cracked](ghost-clients/free/cracked.md)
 * [Premium](ghost-clients/premium/README.md)
   * [Crypt](ghost-clients/premium/crypt.md)
   * [Whiteout](ghost-clients/premium/whiteout.md)
@@ -34,7 +36,8 @@
 
 ## Anarchy Clients
 
-* [Free](anarchy-clients/free.md)
+* [Free](anarchy-clients/free/README.md)
+  * [Cracked](anarchy-clients/free/cracked.md)
 * [Premium](anarchy-clients/premium.md)
 
 ## Cracked Clients
