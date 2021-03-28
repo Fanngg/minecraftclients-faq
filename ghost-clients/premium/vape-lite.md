@@ -4,9 +4,9 @@ Vape is primarily developed by Manthe. Their website is [vape.gg](https://vape.g
 
 The price of this client is $10 a month, $25 for 3 months, $15 for 45 days, or $60 for lifetime.
 
-While Vape Lite might not be as well known as Vape v4, it is still one of the most popular ghost clients on the market. Similar to Vape v4, it is one of the most trusted cheats out there, however Vape Lite it is much more reliable.
+While Vape Lite might not be as well known as Vape v4, it is still one of the most popular ghost clients on the market. Similar to Vape v4, it is one of the most trusted cheats out there, however Vape Lite is much more reliable.
 
-Unlike v4, Lite boasts great screenshare undetectability. Its undetectability, modules and customizability has lead it to be one of the top ghost clients on the market right now - and its price shows. However, while its undetectability is a vast improvement to Vape v4, it isn't the best. Due to the popularity of Vape Lite, there's a bigger chance someone will find this in a screenshare over something like Whiteout.
+Unlike v4, Lite boasts great screenshare undetectability. Its undetectability, modules, and customizability has lead it to be one of the top ghost clients on the market right now - and its price shows. However, while its undetectability is a vast improvement to Vape v4, it isn't the best. Due to the popularity of Vape Lite, there's a bigger chance someone will find this in a screenshare over something like Whiteout.
 
 Screenshares aside, this client has a lot of features. Its AimAssist syncs with your Minecraft sensitivity to make it look more legit, and it also has an external and internal gui \(most cheats only have one\). Similar to Whiteout, the gui allows you to browse user configs on the cloud as well. While Vape Lite doesn't officially support clients such as Lunar, it does bypass them \(although some features might be buggy\).
 
