@@ -12,7 +12,7 @@ Crypt is primarily known for it's serverside bypasses. It's one of the top clien
 
 It is also known for it's developers practically leading the screenshare community, and making Paladin. This shows that the developer's do know what they are doing, however it is still up to debate if Crypt should get updated more.
 
-To purchase this cheat, you must friend request mexican\#0001 on discord.
+To purchase this cheat, you must friend request mexican\#0001 on discord. While the cheat has a good history of being undetected, you should definitely consider it's update schedule - and if that's something you would want in a ghost client.
 
 Written by: Fang on 3/27/2021.
 
