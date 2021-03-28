@@ -5,7 +5,7 @@
 * [How to Contribute](how-to-contribute.md)
 * [Choosing a Cheat](common-mistakes-when-choosing-a-cheat..md)
 
-## submission competition <a id="competition"></a>
+## Submissions Competition <a id="competition"></a>
 
 * [Competition Info](competition/competition-info.md)
 * [Leaderboards](competition/leaderboards.md)
