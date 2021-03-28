@@ -9,7 +9,7 @@ It was cracked by hactify.ru
 
 According to the entropy developer \(fury\) this crack is safe : [https://mega.nz/file/HBw0gCpS\#1-mM-aWVjL-9t4e75puzethr26tV\_7cruTVTEH5wbHQ](https://mega.nz/file/HBw0gCpS#1-mM-aWVjL-9t4e75puzethr26tV_7cruTVTEH5wbHQ)
 
-Their website used to be Cryptwalk.in, but i do not believe they have one as of now.
+Their website is crypp.in. Their old website was Cryptwalk.in
 
 Written by: Fang
 
