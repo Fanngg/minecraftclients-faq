@@ -2,7 +2,7 @@
 
 Vape is primarily developed by Manthe. Their website is [vape.gg](https://vape.gg).
 
-The price for this client is $10 a month, $25 for 3 months, $15 for 45 days, or $60 for lifetime.
+The price of this client is $10 a month, $25 for 3 months, $15 for 45 days, or $60 for lifetime.
 
 While Vape Lite might not be as well known as Vape v4, it is still one of the most popular ghost clients on the market. Similar to Vape v4, it is one of the most trusted cheats out there, however with Vape Lite it is much more reliable.
 

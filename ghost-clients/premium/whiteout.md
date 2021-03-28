@@ -2,7 +2,7 @@
 
 Whiteout is created by the [whiteout.lol](https://whiteout.lol/) team.‌
 
-The price for this client is $10 a month, $25 for 90 days or $60 lifetime. You can also buy a trial week for $5, and you can get a refund within 24 hours if you do not like it.‌
+The price of this client is $10 a month, $25 for 90 days or $60 lifetime. You can also buy a trial week for $5, and you can get a refund within 24 hours if you do not like it.‌
 
 Whiteout is considered one of the current "best" ghost clients on the market. It is designed for PotPVP servers, however it contains some modules such as AntiBot that can be used on servers like Hypixel. Whiteout v2 wasn't that great, however the current version, v3 was a massive improvement on the cheat.‌
 

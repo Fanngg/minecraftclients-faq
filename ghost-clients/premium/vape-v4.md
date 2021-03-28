@@ -2,7 +2,7 @@
 
 Vape is primarily developed by Manthe. Their website is [vape.gg](https://vape.gg/).
 
-The price for this client is $35.
+The price of this client is $35.
 
 Vape has been one of the biggest ghost clients for years. When someone thinks of ghost clients, they will usually think about Vape in some regard \(whether that be vape lite or just vape\). It is also one of the most trusted ghost clients out there, due to the history.
 

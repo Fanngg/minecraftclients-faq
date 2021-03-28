@@ -18,12 +18,12 @@
 
 * [Free](ghost-clients/free.md)
 * [Premium](ghost-clients/premium/README.md)
+  * [Crypt](ghost-clients/premium/crypt-discontinued.md)
   * [Whiteout](ghost-clients/premium/whiteout.md)
   * [Vape Lite](ghost-clients/premium/vape-lite.md)
   * [Vape v4](ghost-clients/premium/vape-v4.md)
   * [Iridium \(](ghost-clients/premium/untitled.md)
   * [Entropy](ghost-clients/premium/entropy.md)
-  * [Crypt \(No longer receiving updates\)](ghost-clients/premium/crypt-discontinued.md)
 
 ## Anarchy Clients
 
@@ -33,6 +33,10 @@
 ## Alt Shops
 
 * [The Altening](alt-shops/the-altening.md)
+
+## Cracks
+
+* [Cracks](cracks/cracks.md)
 
 ## ------------------------------ <a id="divider"></a>
 

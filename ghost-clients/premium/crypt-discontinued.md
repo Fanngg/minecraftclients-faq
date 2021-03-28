@@ -1,17 +1,20 @@
-# Crypt \(No longer receiving updates\)
+---
+description: Note that this project has not received updates in a long time.
+---
 
-Crypt was a ghost client developed by Mexican.
+# Crypt
 
-It was known for its serverside bypasses, and for being developed by \(alot of\) the same people who make paladin \( the screenshare tool \).   
-It is currently no longer receiving updates. 
+Crypt is a ghost client primarily developed by Mexican. Their website is [crypp.in](https://crypp.in).
 
-It was cracked by hactify.ru
+The price of this cheat is $80.
 
-According to the entropy developer \(fury\) this crack is safe : [https://mega.nz/file/HBw0gCpS\#1-mM-aWVjL-9t4e75puzethr26tV\_7cruTVTEH5wbHQ](https://mega.nz/file/HBw0gCpS#1-mM-aWVjL-9t4e75puzethr26tV_7cruTVTEH5wbHQ)
+Crypt is primarily known for it's serverside bypasses. It's one of the top clients whenever it's talked about, however it hasn't received updates in a long time, leading to some people considering it one of the weaker ghost clients. Although the developers claim it doesn't need updates, some members of the community have been asking for updates that simply haven't happened.
 
-Their website is crypp.in, more specifically: [https://crypp.in/dashboard/login/](https://crypp.in/dashboard/login/). Their old website was Cryptwalk.in
+It is also known for it's developers practically leading the screenshare community, and making Paladin. This shows that the developer's do know what they are doing, however it is still up to debate if Crypt should get updated more.
 
-Written by: Fang
+To purchase this cheat, you must friend request mexican\#0001 on discord.
+
+Written by: Fang on 3/27/2021.
 
 
 

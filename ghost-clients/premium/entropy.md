@@ -2,7 +2,7 @@
 
 Entropy is primarily developed by Fury. Their website is [entropy.club](https://entropy.club).
 
-The price for this client is $30.
+The price of this client is $30.
 
 Entropy has had quite a rise in popularity. Starting as an okay to decent cheat, it didn't really bring a lot different. However, with Entropy v3, there's been a lot of discussion on if cheats should be lower in price to due something like Entropy bringing you all the features you would need at just $30.
 
