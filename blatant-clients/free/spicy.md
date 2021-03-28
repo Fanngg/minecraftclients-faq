@@ -16,3 +16,5 @@ At its core it uses the same base that is shown in intent.store's tutorial video
 
  In conclusion while spicy is not the best Hypixel client it should be used as a way to learn how to make hacks
 
+written by lavaflowglow.
+
