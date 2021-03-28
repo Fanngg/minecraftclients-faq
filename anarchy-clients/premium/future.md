@@ -1,6 +1,6 @@
 # Future
 
-**Edit: While claims of Future being a rat have come out, there is no solid evidence. If any new info comes to our attention, we will add it to this overview.** [**Here's a reddit post**](https://www.reddit.com/r/minecraftclients/comments/meh5gk/why_future_isnt_a_rat/?utm_source=share&utm_medium=web2x&context=3) **discussing why it most likely isn't a rat.**
+**Edit: While claims of Future being a rat have come out, there is no solid evidence. If any new info comes to our attention, we will add it to this overview.** [**Here's a reddit post**](https://www.reddit.com/r/minecraftclients/comments/meh5gk/why_future_isnt_a_rat/?utm_source=share&utm_medium=web2x&context=3) **discussing why it most likely isn't a rat.** 
 
 Future is primarily developed by 0x22. Their website is [futureclient.net](https://futureclient.net).
 
