@@ -1,6 +1,6 @@
 # Vape Lite
 
-Vape is primarily developed my Manthe. Their website is [vape.gg](https://vape.gg).
+Vape is primarily developed by Manthe. Their website is [vape.gg](https://vape.gg).
 
 The price for this client is $10 a month, $25 for 3 months, $15 for 45 days, or $60 for lifetime.
 

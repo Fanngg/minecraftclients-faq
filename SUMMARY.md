@@ -18,9 +18,9 @@
 
 * [Free](ghost-clients/free.md)
 * [Premium](ghost-clients/premium/README.md)
-  * [Vape v4](ghost-clients/premium/vape-v4.md)
-  * [Vape Lite](ghost-clients/premium/vape-lite.md)
   * [Whiteout](ghost-clients/premium/whiteout.md)
+  * [Vape Lite](ghost-clients/premium/vape-lite.md)
+  * [Vape v4](ghost-clients/premium/vape-v4.md)
 
 ## Alt Shops
 
