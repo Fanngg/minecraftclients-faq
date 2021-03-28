@@ -22,6 +22,11 @@
   * [Vape Lite](ghost-clients/premium/vape-lite.md)
   * [Vape v4](ghost-clients/premium/vape-v4.md)
 
+## Anarchy Clients
+
+* [Free](anarchy-clients/free.md)
+* [Premium](anarchy-clients/premium.md)
+
 ## Alt Shops
 
 * [The Altening](alt-shops/the-altening.md)
@@ -39,8 +44,6 @@
   * [Pulsive \(15$\)](old/intent.store-clients/pulsive-15usd.md)
 * [Sigma \(free\)](old/sigma-free.md)
 * [Entropy 30$](old/entropy.md)
-* [Vape \(9.99$ a month for lite\)](old/vape.md)
-* [Whiteout \(60$ for lifetime\)](old/whiteout.md)
 * [Crypt \(80$\)](old/crypt.md)
 * [Iridium \(40 euros for ghost\)](old/iridium.md)
 * [Yukio \(12.5 for clicker\)](old/yukio.md)
