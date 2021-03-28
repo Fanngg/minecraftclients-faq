@@ -8,11 +8,11 @@ description: >-
 
 ## What do you want?
 
-**Blatant Clients:** This depends on the server you're choosing. You will find a lot of blatant clients under the Blatant Clients tab, however some may not fit your needs. You can look under the title of the cheat to find out it's focus \(i.e. "Primarily Hypixel"\), and if it isn't what you're looking for, you can go onto the next.
+**Blatant Clients:** This depends on the server you're choosing. You will find a lot of blatant clients under the Blatant Clients tab, however, some may not fit your needs. You can look under the title of the cheat to find out its focus \(i.e. "Primarily Hypixel"\), and if it isn't what you're looking for, you can go onto the next.
 
 **Ghost Clients:** This one is a little less tricky. While most cheats are _meant_ for potpvp servers, they will usually bypass well on minigames servers such as Hypixel or Mineplex.
 
-**Anarchy Clients / Utility Mods:** This category of cheating is probably the easiest to find a cheat for. Utility mods usually bypass a lot of servers, however some may have specific bypasses for some servers \(i.e. 2b2t\).
+**Anarchy Clients / Utility Mods:** This category of cheating is probably the easiest to find a cheat for. Utility mods usually bypass a lot of servers, however, some may have specific bypasses for some servers \(i.e. 2b2t\).
 
 ## **Common Mistakes**
 
@@ -30,7 +30,7 @@ The whole point of a montage is to pick your best clips with the client, edit th
 
 **Just because a client flags your antivirus doesn't mean it is a virus.**
 
-It is extremely common for clients to flag antiviruses. Ghost clients are notorious for this, as they practically replicate what a trojan does \(inject itself into a program and then hide all traces of it\). However, blatant clients and utility mods might also flag the antivirus. For example, obfuscation is known for making flagging antiviruses, and some client's \(like Astolfo\) have launchers that flag antiviruses. While a client _usually_ isn't a virus/rat, cracks most likely are. You should always research any client you use just in case.
+It is extremely common for clients to flag antiviruses. Ghost clients are notorious for this, as they practically replicate what a trojan does \(inject itself into a program and then hide all traces of it\). However, blatant clients and utility mods might also flag the antivirus. For example, obfuscation is known for making flagging antiviruses, and some clients \(like Astolfo\) have launchers that flag antiviruses. While a client _usually_ isn't a virus/rat, cracks most likely are. You should always research any client you use just in case.
 
 ## Purchase Guide \(Flowchart\)
 

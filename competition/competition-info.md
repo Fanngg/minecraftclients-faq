@@ -2,7 +2,7 @@
 
 ## **Requirements**: 
 
-You must have either CashApp or a Bitcoin wallet to receive the money. If you don't have one of those, you won't be able to win the money. Only submissions that are accepted will be added. Low quality submissions will not be accepted. Submissions containing opinions will not be accepted. 
+You must have either CashApp or a Bitcoin wallet to receive the money. If you don't have one of those, you won't be able to win the money. Only submissions that are accepted will be added. Low-quality submissions will not be accepted. Submissions containing opinions will not be accepted. 
 
 ## **Prizes:**
 
