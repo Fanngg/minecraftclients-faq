@@ -12,5 +12,5 @@ If you'd like to add something to this gitbook, please use this format below. **
 
 To submit your contribution, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSf3Uwu9m0vV4GydpGm8lepKJOoAB_J9hwLI2BnEX2nWijr5nQ/viewform?usp=sf_link).
 
-If your contribution meets our requirements, we will add it to this gitbook and credit If a cheat already has an overview, we will add yours to the page as well. Thank you so much for wanting to add to this project!
+If your contribution meets our requirements, we will add it to this gitbook and credit If a cheat already has an overview, we will add yours to the page as well. Note that we will most likely revise and make some edits to your submission, however it is just to fit our format. Thank you so much for wanting to add to this project!
 
