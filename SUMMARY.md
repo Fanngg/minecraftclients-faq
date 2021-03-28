@@ -7,7 +7,7 @@
 
 ## submission competition <a id="competition"></a>
 
-* [Competition info](competition/competition-info.md)
+* [Competition Info](competition/competition-info.md)
 * [Leaderboards](competition/leaderboards.md)
 
 ## Blatant Clients
