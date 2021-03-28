@@ -8,7 +8,7 @@ Vape has been one of the biggest ghost clients for years. When someone thinks of
 
 Vape doesn't really receive any updates, and if it does they're very minor. However, given that it is a ghost client that isn't focused on bypassing screenshares, it doesn't really need updates. Speaking of screenshares, Vape is one of the worst clients for bypassing them. Vape v4 is primarily used on Hypixel for this reason - it's not good at being undetected in screenshares.
 
-However, even with it's detectability, that doesn't mean it's a bad client. There's a lot of quality here, and it is very feature-rich. Most modules have several settings or sliders you can change, and there's even some blatant features \(although they aren't the best at bypassing\). The current audience for Vape is the ghost client user that only or primarily plays on Hypixel, and doesn't care about Lunar support. If you are wanting something that will bypass screenshares, this client is not for you.
+However, even with its detectability, that doesn't mean it's a bad client. There's a lot of quality here, and it is very feature-rich. Most modules have several settings or sliders you can change, and there are even some blatant features \(although they aren't the best at bypassing\). The current audience for Vape is the ghost client user that only or primarily plays on Hypixel, and doesn't care about Lunar support. If you are wanting something that will bypass screenshares, this client is not for you.
 
 This page was created on 3/20/2021 by p4.[  
 ](https://minecraftclients.gitbook.io/minecraftclients-faq/ghost-clients/premium)
