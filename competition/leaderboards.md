@@ -1,15 +1,15 @@
 # Leaderboards
 
-1. n/a - 0 submissions  -10$
-2. n/a - 0 submissions - 5$
-3. n/a - 0 submissions - 3$
-4. n/a - 0 submissions
-5. n/a - 0 submissions
-6. n/a - 0 submissions
-7. n/a - 0 submissions 
-8. n/a - 0 submissions 
-9. n/a - 0 submissions
-10. n/a - 0 submissions
+1. "THICCC BOI 69420" \( cope \) - 1 submission\(s\)  -10$
+2. LavaFlowGlow - 1 submission\(s\) - 5$
+3. n/a - 0 submission\(s\) - 3$
+4. n/a - 0 submission\(s\)
+5. n/a - 0 submission\(s\)
+6. n/a - 0 submission\(s\)
+7. n/a - 0 submission\(s\)
+8. n/a - 0 submission\(s\)
+9. n/a - 0 submission\(s\)
+10. n/a - 0 submission\(s\)
 
 
 
