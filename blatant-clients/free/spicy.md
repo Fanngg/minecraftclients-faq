@@ -10,7 +10,7 @@ The client was created to help others learn about ways they can use Minecraft's 
 
 The SpicyClient servers contain a private backend that has never been leaked or released to the public for security reasons. If you want to recreate the backend for your own purposes, you will need to dig though the source code to find out what its sending \(as there is no documentation for the API\). The API is coded in PHP and uses MySQL to save the data. It blocks VPNs from registering along with logging in to prevent spam account creation and password cracking.
 
-Spicy client is meant to be for a user who can't afford something like Astolfo, or someone who just wants to give Hypixel hacking a shot. While it might not compare to a paid client, it is an alternative for people who can't purchase one for whatever reason.
+Spicy client is meant to be for a user who can't afford something like Astolfo, or someone who just wants to give Hypixel hacking a shot. While it might not compare to a paid client, it is an alternative for people who can't purchase one for whatever reason. The fact that it is also open source is great for new or upcoming client developers to learn more about how clients bypass Hypixel's anticheat, Watchdog.
 
 Wrriten by lavaflowglow on 3/28/2021.
 
