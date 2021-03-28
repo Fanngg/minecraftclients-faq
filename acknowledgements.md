@@ -6,9 +6,9 @@ description: The sexy people who made this possible
 
 **Current Acknowledgements:**
 
-Fang: Created the gitbook.
+Fang: Created the gitbook + created a few pages here.
 
-p4: Helped revamp the gitbook + created a few pages here.
+p4: Helped revamp the gitbook + created a few pages here. Revises and makes edits most pages.
 
   
 **Previous Acknowledgements**:   

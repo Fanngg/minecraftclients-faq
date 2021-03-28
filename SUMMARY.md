@@ -23,6 +23,7 @@
   * [Vape Lite](ghost-clients/premium/vape-lite.md)
   * [Vape v4](ghost-clients/premium/vape-v4.md)
   * [Entropy](ghost-clients/premium/entropy.md)
+  * [Dream](ghost-clients/premium/dream.md)
 
 ## Anarchy Clients
 
