@@ -34,7 +34,8 @@
 
 ## Anarchy Clients
 
-* [Free](anarchy-clients/free.md)
+* [Free](anarchy-clients/free/README.md)
+  * [Seppuku](anarchy-clients/free/seppuku.md)
 * [Premium](anarchy-clients/premium/README.md)
   * [Future](anarchy-clients/premium/future.md)
 
