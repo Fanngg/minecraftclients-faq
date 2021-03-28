@@ -13,6 +13,7 @@
 ## Blatant Clients
 
 * [Free](blatant-clients/free/README.md)
+  * [Liquidbounce](blatant-clients/free/liquidbounce.md)
   * [Spicy](blatant-clients/free/spicy.md)
 * [Premium](blatant-clients/premium/README.md)
   * [Astolfo](blatant-clients/premium/astolfo.md)
