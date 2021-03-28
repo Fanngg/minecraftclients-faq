@@ -1,6 +1,6 @@
 # Crypt \(DISCONTINUED\)
 
-Crypt was a ghost client developed by Mexican.
+Crypt was a ghost client developed by ciaran.
 
 It was known for its serverside bypasses, and for being developed by \(alot of\) the same people who make paladin \( the screenshare tool \).   
 It is currently no longer receiving updates. 
