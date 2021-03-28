@@ -6,6 +6,6 @@ This Gitbook will provide information and things to know cheating in Minecraft. 
 
 ## **Contest**
 
-We're currently holding a Submissions contest where you can earn some money for making decent, detailed and unopinionated reviews/overviews of clients. Check the **Submissions Competition** tab for more![  
+We're currently holding a Submissions contest where you can earn some money for making decent, detailed and unopinionated reviews/overviews of clients. Check the **Submissions Competition** tab to learn more![  
 ](https://minecraftclients.gitbook.io/minecraftclients-faq/acknowledgements)
 

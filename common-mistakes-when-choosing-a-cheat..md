@@ -34,5 +34,5 @@ It is extremely common for clients to flag antiviruses. Ghost clients are notori
 
 ## Purchase Guide \(Flowchart\)
 
-![Created by Fang and p4.](.gitbook/assets/untitled-document-2-.png)
+![Created by Fang and p4.](.gitbook/assets/untitled-document-3-.png)
 
