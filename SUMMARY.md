@@ -12,7 +12,8 @@
 
 ## Blatant Clients
 
-* [Free](blatant-clients/free.md)
+* [Free](blatant-clients/free/README.md)
+  * [Spicy](blatant-clients/free/spicy.md)
 * [Premium](blatant-clients/premium/README.md)
   * [Astolfo](blatant-clients/premium/astolfo.md)
   * [Exhibition](blatant-clients/premium/exhibition.md)
