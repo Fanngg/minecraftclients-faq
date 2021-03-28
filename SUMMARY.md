@@ -5,6 +5,11 @@
 * [How to Contribute](how-to-contribute.md)
 * [Choosing a Cheat](common-mistakes-when-choosing-a-cheat..md)
 
+## submission competition <a id="competition"></a>
+
+* [Competition info](competition/competition-info.md)
+* [Leaderboards](competition/leaderboards.md)
+
 ## Blatant Clients
 
 * [Free](blatant-clients/free.md)
@@ -13,11 +18,6 @@
   * [Exhibition](blatant-clients/premium/exhibition.md)
   * [Moon](blatant-clients/premium/moon.md)
   * [ZeroDay](blatant-clients/premium/zeroday.md)
-
-## submission competition <a id="competition"></a>
-
-* [Competition info](competition/competition-info.md)
-* [Leaderboards](competition/leaderboards.md)
 
 ## Ghost Clients
 
