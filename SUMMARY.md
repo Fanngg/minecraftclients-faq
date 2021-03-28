@@ -35,7 +35,8 @@
 ## Anarchy Clients
 
 * [Free](anarchy-clients/free.md)
-* [Premium](anarchy-clients/premium.md)
+* [Premium](anarchy-clients/premium/README.md)
+  * [Future](anarchy-clients/premium/future.md)
 
 ## Alt Shops
 
