@@ -14,6 +14,11 @@
   * [Moon](blatant-clients/premium/moon.md)
   * [ZeroDay](blatant-clients/premium/zeroday.md)
 
+## submission competition <a id="competition"></a>
+
+* [Competition info](competition/competition-info.md)
+* [Leaderboards](competition/leaderboards.md)
+
 ## Ghost Clients
 
 * [Free](ghost-clients/free.md)
