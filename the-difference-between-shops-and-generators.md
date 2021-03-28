@@ -6,7 +6,5 @@ Generators never give you the email or password, but you \(generally\) get a key
 
  A few examples of shops would be rebornalts or alts.top, while a couple examples of generators are thealtening and alts.pizza.
 
-Each category is in order of its reputation. On the sidebar, the most trusted alt shops will be at the top and the least trusted will be at the bottom. None of the shops listed are scams \(as of posting this\) but some shops are ridiculously overpriced.
-
-If you cheat something like EVERY SINGLE DAY and its all blatant, then you should probably get a gen, but if you cheat maybe once or twice a month, you should buy from a shop.
+If you do blatant cheating frequently \( atleast 2-3 times per week\), or you bot servers, a gen is probably best for you, but if you dont cheat that often, or if you are mostly ghost cheating, you should use a shop.
 
