@@ -23,7 +23,8 @@
 
 ## Ghost Clients
 
-* [Free](ghost-clients/free.md)
+* [Free](ghost-clients/free/README.md)
+  * [Itami](ghost-clients/free/itami.md)
 * [Premium](ghost-clients/premium/README.md)
   * [Crypt](ghost-clients/premium/crypt.md)
   * [Whiteout](ghost-clients/premium/whiteout.md)
