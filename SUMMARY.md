@@ -31,16 +31,11 @@
 ## Old
 
 * [Configs](old/configs.md)
-* [Astolfo \(40$\)](old/astolfo-40usd/README.md)
-  * [How to apply](old/astolfo-40usd/how-to-apply.md)
-  * [How to install.](old/astolfo-40usd/how-to-install..md)
 * [Remix \(25$\)](old/remix-25usd.md)
 * [Novoline \(25$\)](old/novoline-25usd.md)
-* [Exhibition](old/exhibition.md)
 * [Intent.store clients](old/intent.store-clients/README.md)
   * [Fan \(15$ / free because cracked\)](old/intent.store-clients/fan-15usd-free-because-cracked/README.md)
     * [How to use fan crack](old/intent.store-clients/fan-15usd-free-because-cracked/how-to-use-fan-crack.md)
-  * [Zeroday \(10$\)](old/intent.store-clients/zeroday-10usd.md)
   * [Pulsive \(15$\)](old/intent.store-clients/pulsive-15usd.md)
 * [Sigma \(free\)](old/sigma-free.md)
 * [Entropy 30$](old/entropy.md)
