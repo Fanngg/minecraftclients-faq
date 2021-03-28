@@ -14,7 +14,7 @@ You must have either CashApp or a Bitcoin wallet to receive the money. If you do
 
 ## **Extra Info**
 
-If you want your prize to be paid to you in Bitcoin, be aware that it might not happen immediately, as I \(Fang\) am relying on voxel to get Bitcoin for me. If anyone else can resell me bitcoin in a more immediate fashion, that would be wonderful. CashApp will be immediate.
+If you want your prize to be paid to you in Bitcoin, be aware that it might not happen immediately, as I \(Fang\) am relying on voxel to get Bitcoin for me. If anyone else can resell me bitcoin in a more immediate fashion, that would be wonderful. CashApp will be immediate. Users who place anywhere from 1-10 will be commemorated for helping start the gitbook.
 
 This competition will go for about a month, or until the gitbook is finished. This post was made at 12:00 on March 28th \(2021\), so a month from now will be 12:00 am on April 27th \(2021\). 
 
