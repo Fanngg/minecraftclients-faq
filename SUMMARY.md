@@ -15,7 +15,6 @@
 * [Free](blatant-clients/free/README.md)
   * [Spicy](blatant-clients/free/spicy.md)
   * [Liquidbounce](blatant-clients/free/liquidbounce.md)
-  * [Cracked](blatant-clients/free/cracked.md)
 * [Premium](blatant-clients/premium/README.md)
   * [Astolfo](blatant-clients/premium/astolfo.md)
   * [Exhibition](blatant-clients/premium/exhibition.md)
@@ -24,8 +23,7 @@
 
 ## Ghost Clients
 
-* [Free](ghost-clients/free/README.md)
-  * [Cracked](ghost-clients/free/cracked.md)
+* [Free](ghost-clients/free.md)
 * [Premium](ghost-clients/premium/README.md)
   * [Crypt](ghost-clients/premium/crypt.md)
   * [Whiteout](ghost-clients/premium/whiteout.md)
@@ -36,8 +34,7 @@
 
 ## Anarchy Clients
 
-* [Free](anarchy-clients/free/README.md)
-  * [Cracked](anarchy-clients/free/cracked.md)
+* [Free](anarchy-clients/free.md)
 * [Premium](anarchy-clients/premium.md)
 
 ## Alt Shops
@@ -51,13 +48,17 @@
   * [IP Address](terms/identification/ip-address.md)
 * [Obfuscation](terms/untitled.md)
 
+## Other
+
+* [Forge Mods](other/forge-mods.md)
+* [Cracks](other/cracks.md)
+
 ## ------------------------------ <a id="divider"></a>
 
 ## Old
 
 * [Remix \(25$\)](old/remix-25usd.md)
 * [Novoline \(25$\)](old/novoline-25usd.md)
-* [Sigma \(free\)](old/sigma-free.md)
 * [Iridium \(40 euros for ghost\)](old/iridium.md)
 * [Yukio \(12.5 for clicker\)](old/yukio.md)
 * [drip \(10$/7 days for lite\)](old/drip.md)
@@ -90,7 +91,6 @@
 * [Xatz](xatz.md)
 * [Itami](itami.md)
 * [Aristois](aristois.md)
-* [Fang client](fang-client.md)
 * [Ghostly](ghostly.md)
 * [Lunar](lunar.md)
 * [Saico](saico.md)

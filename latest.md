@@ -4,7 +4,7 @@
 
 [meteor](meteor.md)
 
-[Sigma](old/sigma-free.md)
+[Sigma]()
 
 [Impact \(donor only version\)](impact.md)
 
