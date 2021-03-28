@@ -21,6 +21,7 @@
   * [Whiteout](ghost-clients/premium/whiteout.md)
   * [Vape Lite](ghost-clients/premium/vape-lite.md)
   * [Vape v4](ghost-clients/premium/vape-v4.md)
+  * [Entropy](ghost-clients/premium/entropy.md)
   * [Crypt \(DISCONTINUED\)](ghost-clients/premium/crypt-discontinued.md)
 
 ## Anarchy Clients
