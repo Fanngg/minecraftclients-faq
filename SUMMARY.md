@@ -40,10 +40,6 @@
   * [Cracked](anarchy-clients/free/cracked.md)
 * [Premium](anarchy-clients/premium.md)
 
-## Cracked Clients
-
-* [Crack List](cracked-clients/cracks.md)
-
 ## Alt Shops
 
 * [The Altening](alt-shops/the-altening.md)
