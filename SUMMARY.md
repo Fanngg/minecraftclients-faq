@@ -37,33 +37,29 @@
 * [Free](anarchy-clients/free.md)
 * [Premium](anarchy-clients/premium.md)
 
+## Cracks
+
+* [Crack List](cracks/cracks.md)
+
 ## Alt Shops
 
 * [The Altening](alt-shops/the-altening.md)
 
-## Cracks
+## Terms
 
-* [Crack List](cracks/cracks.md)
+* [Untitled](terms/untitled.md)
 
 ## ------------------------------ <a id="divider"></a>
 
 ## Old
 
-* [Configs](old/configs.md)
 * [Remix \(25$\)](old/remix-25usd.md)
 * [Novoline \(25$\)](old/novoline-25usd.md)
-* [Intent.store clients](old/intent.store-clients/README.md)
-  * [Fan \(15$ / free because cracked\)](old/intent.store-clients/fan-15usd-free-because-cracked/README.md)
-    * [How to use fan crack](old/intent.store-clients/fan-15usd-free-because-cracked/how-to-use-fan-crack.md)
-  * [Pulsive \(15$\)](old/intent.store-clients/pulsive-15usd.md)
 * [Sigma \(free\)](old/sigma-free.md)
-* [Entropy 30$](old/entropy.md)
-* [Crypt \(80$\)](old/crypt.md)
 * [Iridium \(40 euros for ghost\)](old/iridium.md)
 * [Yukio \(12.5 for clicker\)](old/yukio.md)
 * [drip \(10$/7 days for lite\)](old/drip.md)
 * [Future \(20$\)](old/future.md)
-* [Anarchy clients module explanation](old/anarchy-clients-module-explanation.md)
 * [Rusherhack \(20$ for normal 100$ for rusherhack+\)](old/rusherhack.md)
 * [Wurst +2 \(free\)](old/wurst-+2.md)
 * [Kami blue  \(free\)](old/kami-blue.md)
@@ -86,17 +82,13 @@
 * [Impact \(free\)](impact.md)
 * [Summit \(free\)](summit.md)
 * [latest](latest.md)
-* [1.12.2](1.12.2.md)
-* [1.8.9](1.8.9.md)
 * [Viaforge.](viaforge..md)
 * [baritone](baritone.md)
 * [Schematica](schematica.md)
-* [Spicy](spicy.md)
 * [Xatz](xatz.md)
 * [Itami](itami.md)
 * [Aristois](aristois.md)
 * [Fang client](fang-client.md)
-* [Liquidbounce](liquidbounce.md)
 * [Ghostly](ghostly.md)
 * [Lunar](lunar.md)
 * [Saico](saico.md)
