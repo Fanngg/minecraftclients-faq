@@ -48,12 +48,12 @@
   * [HWID](terms/identification/hwid.md)
   * [IP Address](terms/identification/ip-address.md)
 * [Obfuscation](terms/untitled.md)
+* [Blatant](terms/blatant.md)
+* [Ghost](terms/ghost.md)
 
 ## Other
 
 * [Forge Mods \(Non-Cheats\)](other/forge-mods.md)
-* [Blatant](other/blatant.md)
-* [Ghost](other/ghost.md)
 * [Cracks](other/cracks.md)
 
 ## ------------------------------ <a id="divider"></a>
