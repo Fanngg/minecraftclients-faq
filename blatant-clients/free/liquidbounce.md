@@ -10,5 +10,5 @@ As stated previously, it features a custom scripting API along with a custom HUD
 
 Liquidbounce is a good alternative to some paid clients because of its scripting API and its modules in general. The development team is also trusted and has been around for a while. If you want to try cheating in Minecraft out, but don't want to commit to purchasing a cheat just yet, you might want to consider using Liquidbounce.
 
-Written by cope and Martypower2064 on 3/28/2021.
+Written by cope on 3/28/2021.
 
