@@ -38,6 +38,7 @@
 
 * [Free](anarchy-clients/free/README.md)
   * [Meteor](anarchy-clients/free/meteor.md)
+  * [Xulu](anarchy-clients/free/xulu.md)
   * [Seppuku](anarchy-clients/free/seppuku.md)
 * [Premium](anarchy-clients/premium/README.md)
   * [Future](anarchy-clients/premium/future.md)
