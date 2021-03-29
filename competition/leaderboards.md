@@ -5,7 +5,7 @@ Here is the current leaderboard. Users who place anywhere from 1-10 will be comm
 1. **Cope** - 2 submission\(s\)  -  ****10$
 2. **LavaFlowGlow** - 1 submission\(s\) - 5$
 3. **muppet** - 1 submission\(s\) - 3$
-4. n/a - 0 submission\(s\)
+4. **The\_Shadow\_Emperor** - 1 submission\(s\)
 5. n/a - 0 submission\(s\)
 6. n/a - 0 submission\(s\)
 7. n/a - 0 submission\(s\)

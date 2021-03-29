@@ -40,6 +40,7 @@
   * [Seppuku](anarchy-clients/free/seppuku.md)
 * [Premium](anarchy-clients/premium/README.md)
   * [Future](anarchy-clients/premium/future.md)
+  * [Konas](anarchy-clients/premium/konas.md)
 
 ## Alt Shops
 
