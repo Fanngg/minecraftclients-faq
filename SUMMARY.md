@@ -25,6 +25,7 @@
 
 * [Free](ghost-clients/free/README.md)
   * [Itami](ghost-clients/free/itami.md)
+  * [Zoomin](ghost-clients/free/zoomin.md)
 * [Premium](ghost-clients/premium/README.md)
   * [Crypt](ghost-clients/premium/crypt.md)
   * [Whiteout](ghost-clients/premium/whiteout.md)
