@@ -37,6 +37,7 @@
 ## Anarchy Clients
 
 * [Free](anarchy-clients/free/README.md)
+  * [Meteor](anarchy-clients/free/meteor.md)
   * [Seppuku](anarchy-clients/free/seppuku.md)
 * [Premium](anarchy-clients/premium/README.md)
   * [Future](anarchy-clients/premium/future.md)
