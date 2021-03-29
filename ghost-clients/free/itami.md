@@ -6,5 +6,5 @@ It features simple modules and GUI, with left and right autoclickers with random
 
 The client is relatively new, but has a pretty big community and trust from many well-known people, for example Nightbot \([http://youtube.com/Nightbot/](http://youtube.com/Nightbot/)\), and has not had any accusations of being malicious.
 
-mad by cope 
+Written by cope on 3/29/2021. 
 
