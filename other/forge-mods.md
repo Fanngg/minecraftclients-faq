@@ -28,5 +28,9 @@ Hydrogen is a performance enhancing mod. It is an Optifine alternative. It can b
 
 ## Lithium
 
-Another Optifine alternative. It can be used with Sodium and its fellows, with no compatibility issues. It helps low-end PCs perform better by optimizing lots of small issues in the Minecraft engine. You can get Lithium [here](https://github.com/CaffeineMC/lithium-fabric/releases/).
+Lithium is another Optifine alternative. It can be used with Sodium and its fellows, with no compatibility issues. It helps low-end PCs perform better by optimizing lots of small issues in the Minecraft engine. You can get Lithium [here](https://github.com/CaffeineMC/lithium-fabric/releases/).
+
+## Phosphor
+
+Phosphor is a fabric Optifine alternative to be used with Sodium and its fellows. It is not as good as starlight, being x25 times worse, but is still an improvement over the vanilla lighting engine, which it reworks to make for efficient. This mod reworks the lighting engine to save CPU time. It changes as little as it can, to provide the most compatibility with the most amount of mods. It is not as efficient as Starlight, another mod that does the same thing. They are NOT compatible. You can get Phosphor [here](https://github.com/CaffeineMC/phosphor-fabric/releases/).
 
