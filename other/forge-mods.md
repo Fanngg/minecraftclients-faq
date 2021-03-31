@@ -34,3 +34,7 @@ Lithium is another Optifine alternative. It can be used with Sodium and its fell
 
 Phosphor is a fabric Optifine alternative to be used with Sodium and its fellows. It is not as good as starlight, being x25 times worse, but is still an improvement over the vanilla lighting engine, which it reworks to make for efficient. This mod reworks the lighting engine to save CPU time. It changes as little as it can, to provide the most compatibility with the most amount of mods. It is not as efficient as Starlight, another mod that does the same thing. They are NOT compatible. You can get Phosphor [here](https://github.com/CaffeineMC/phosphor-fabric/releases/).
 
+## Starlight
+
+Numbers-wise, a better alternative to Phosphor.  It is compatible with Sodium and all its fellows, besides Phosphor.  It is x25 better based on the amount of time it takes to light chunks. It reworks Minecraft's vanilla lighting engine to make it x35 faster. Similar to Phosphor, it is NOT a cheat, is for fabric, and can be used alongside cheats. You can get Starlight [here](https://github.com/Spottedleaf/Starlight).
+
