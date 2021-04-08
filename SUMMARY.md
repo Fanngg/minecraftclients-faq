@@ -19,6 +19,7 @@
   * [Astolfo](blatant-clients/premium/astolfo.md)
   * [Exhibition](blatant-clients/premium/exhibition.md)
   * [Moon](blatant-clients/premium/moon.md)
+  * [Dortware](blatant-clients/premium/dortware.md)
   * [ZeroDay](blatant-clients/premium/zeroday.md)
 
 ## Ghost Clients
