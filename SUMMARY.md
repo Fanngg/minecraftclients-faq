@@ -61,6 +61,7 @@
   * [HWID](terms/identification/hwid.md)
   * [IP Address](terms/identification/ip-address.md)
 * [Obfuscation](terms/untitled.md)
+* [Blinkfly](terms/blinkfly.md)
 * [Blatant](terms/blatant.md)
 * [Ghost](terms/ghost.md)
 
