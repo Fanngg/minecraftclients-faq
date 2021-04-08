@@ -8,6 +8,8 @@ Astolfo is primarily developed by Zarzel. Their website is [astolfo.lgbt](https:
 
 The price for this client is $40, although it can differ depending on what payment method you use.
 
+If you are unable to purchase Astolfo due to payment method issues, you can purchase it safely at spezz.exchange via a credit card. It will cost 48$ instead of 40$, but it's a solution for those who cannot acquire it due to lack of bitcoins.
+
 Astolfo is commonly used on Hypixel, however it does have bypasses for some other servers. The Astolfo team are fairly active when it comes to updates, updating as quick as they can when a new Watchdog update comes out.
 
 Speaking of updates, the client is usually always bypassing. This client is considered the "best" Hypixel cheat on the market \(as of the date this review was created\), and one of the most expensive as well. It has some visual customizability \(hud + gui\), and it's modules also have a lot of settings.
