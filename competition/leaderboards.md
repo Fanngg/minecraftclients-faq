@@ -4,12 +4,12 @@ Here is the current leaderboard. Users who place anywhere from 1-10 will be comm
 
 1. **Majorsopa** - 7.5 submission\(s\) - 10$
 2. **Cope** - 2 submission\(s\)  -  ****5$
-3. **LavaFlowGlow** - 1 submission\(s\) - 3$
-4. **muppet** - 1 submission\(s\)
+3. **AGENT P** - 2 submission\(s\) - 3$
+4. **LavaFlowGlow**- 1 submission\(s\)
 5. **The\_Shadow\_Emperor** - 1 submission\(s\)
 6. **Karatat** - 1 submission\(s\)
 7. **TNIS0** - 1 submission\(s\)
-8. n/a - 0 submission\(s\)
+8. **muppet** - 1 submission\(s\)
 9. n/a - 0 submission\(s\)
 10. n/a - 0 submission\(s\)
 

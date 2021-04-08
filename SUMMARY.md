@@ -42,6 +42,7 @@
   * [Kami Blue](anarchy-clients/free/kami-blue.md)
   * [Frostburn](anarchy-clients/free/frostburn.md)
   * [Xulu](anarchy-clients/free/xulu.md)
+  * [Salhack](anarchy-clients/free/salhack.md)
   * [Seppuku](anarchy-clients/free/seppuku.md)
 * [Premium](anarchy-clients/premium/README.md)
   * [Rusherhack](anarchy-clients/premium/rusherhack.md)
@@ -51,6 +52,7 @@
 ## Alt Shops
 
 * [The Altening](alt-shops/the-altening.md)
+* [Alts.TOP](alt-shops/alts.top.md)
 
 ## Terms
 
