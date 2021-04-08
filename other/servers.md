@@ -14,3 +14,5 @@
 
 **Velt** is really inactive. It's very similar to Faithful with a better anticheat, to an extent. They use this thing called "VAC" \(Velt Anti Cheat\). Reach up to 3.7 bypasses, and certain clients occasionally have movement bypasses as well. They also lack an omnisprint check.
 
+Written by EmilyF3.
+
