@@ -10,7 +10,7 @@ Here is the current leaderboard. Users who place anywhere from 1-10 will be comm
 6. **Karatat** - 1 submission\(s\)
 7. **TNIS0** - 1 submission\(s\)
 8. **muppet** - 1 submission\(s\)
-9. n/a - 0 submission\(s\)
+9. **MLGgamingpro** - 1 submission\(s\)
 10. n/a - 0 submission\(s\)
 
 
