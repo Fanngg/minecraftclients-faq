@@ -69,6 +69,7 @@
 ## Other
 
 * [Forge Mods \(Non-Cheats\)](other/forge-mods.md)
+* [Servers](other/servers.md)
 * [Cracks](other/cracks.md)
 
 ## ------------------------------ <a id="divider"></a>
