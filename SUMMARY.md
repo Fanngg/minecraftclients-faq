@@ -44,6 +44,7 @@
   * [Xulu](anarchy-clients/free/xulu.md)
   * [Seppuku](anarchy-clients/free/seppuku.md)
 * [Premium](anarchy-clients/premium/README.md)
+  * [Rusherhack](anarchy-clients/premium/rusherhack.md)
   * [Future](anarchy-clients/premium/future.md)
   * [Konas](anarchy-clients/premium/konas.md)
 
